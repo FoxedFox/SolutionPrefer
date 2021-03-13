@@ -1,0 +1,9 @@
+﻿  MonCar.cpp
+C:\Users\Рыба\source\repos\SolutionPrefer\SolutionPrefer\MonCar.h(14,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SolutionPrefer.cpp
+C:\Users\Рыба\source\repos\SolutionPrefer\SolutionPrefer\MonCar.h(14,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Рыба\source\repos\SolutionPrefer\SolutionPrefer\DFS.h(53,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\Рыба\source\repos\SolutionPrefer\SolutionPrefer\DFS.h(61,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Рыба\source\repos\SolutionPrefer\SolutionPrefer\SolutionPrefer.cpp(37,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  SolutionPrefer.vcxproj -> C:\Users\Рыба\source\repos\SolutionPrefer\Debug\SolutionPrefer.exe
